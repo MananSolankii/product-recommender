@@ -1,0 +1,2 @@
+# Add to your existing working ML environment; do not reinstall requirements.txt.
+streamlit==1.50.0
